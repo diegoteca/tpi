@@ -1,0 +1,11 @@
+# Antigua Entrega 5
+
+Entrega 5
+Contrastación y Análisis de Datos
+
+1) – Dada sus unidades de análisis (Entrega 4) y variables (Entrega 3) construya su respectiva(s) matriz de datos.
+2) – Utilizando la matriz de datos del punto anterior, y dada/s la/s hipótesis de su investigación, construya los cuadros que considera pertinente para contrastar su hipótesis o responder a su pregunta de investigación inicial.
+3) – Haga un análisis de cada cuadro y, en función de la operacionalización previa, interprete teóricamente la distribución o relación de las variables usadas. Justifique en cada caso el tipo de análisis realizado. Por ejemplo, justifique porque utiliza porcentajes o porque utiliza una mediana en vez de una media. 
+Nota: Recuerde que, dadas algunas características de los conceptos, algunas técnicas de análisis de datos son más idóneas que otras. Expresado de modo inverso, algunas técnicas de análisis de datos presuponen determinados tipos de conceptos. Se espera que un buen investigador sepa diseñar análisis acorde a sus conceptos.
+
+

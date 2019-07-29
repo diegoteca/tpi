@@ -1,0 +1,22 @@
+# Antigua Entrega 4
+
+Entrega 4
+Diseño de la investigación II: 
+El universo, la población, las unidades de análisis y el muestreo
+
+
+En base a su problema de investigación, planteado en la entrega 1, y luego de haber seleccionado su marco teórico en la entrega 2, y avanzado en la operacionalización en la entrega 3, realice las siguientes actividades:
+
+Revise, y de ser necesario reformule, el tema y el problema/pregunta de investigación, los objetivos y la/s hipótesis.
+Determine el/los universos, la/s población/es a investigar empíricamente y sus respectivas unidades de análisis Piense quienes serían los referentes de sus afirmaciones.
+
+Nota: Recuerde que el universo o clase de referencia puede ser definido como la clase conformadas por el conjunto de objetos al que se refiere a) un concepto y, de forma derivada, b) las proposiciones que se forman con estos. Cada uno de esos objetos es un miembro de la clase de referencia de ese constructo. Recuerde que muchas teorías refieren a cosas que hoy no existen (p.e. dinosaurios)  y/o se supone que existirán mañana (el sol mañana saldrá a tal hora).
+En una investigación se pueden usar más de un concepto y así conformar proposiciones que refieran a diferentes tipos de objetos. Casi con seguridad,  al incorporar criterios de tiempo y espacio, el universo anterior se transforma en una población empírica compuesta por unidades de análisis. Estas son cada uno de los elementos que componen la población y esta última, por definición, es un subconjunto de los elementos que componen el universo.
+En algunas investigaciones, generalmente en las que se aplica la parte más utilitaria del método científico (aquí estudiado en las Unidades 2 y 4) y no se intenta explícitamente responder/solucionar una pregunta/problema científica (aquí estudiado en la Unidad 1 y parte del 3), la clase de referencia de sus proposiciones se aproxima extensivamente a la extensión de la población. Obviamente, esto se debe más al achicamiento de su clase de referencia que al agrandamiento de la población de la investigación. Esto es usual en el mundo de la tecnología social en donde trabajo social puede considerarse un ejemplo.
+
+3) Piense cómo elegirá a las unidades de análisis que efectivamente le proporcionen la información y con qué criterio los seleccionará. Describa cómo llevará adelante el proceso. En este punto se espera que pueda reflexionar, dados sus objetivos de investigación, acerca de su diseño de investigación. Especialmente es importante qué combinación de experimentos, observaciones controladas y encuestas intentará llevar a cabo.
+
+Nota: A modo de reglas (incompletas pero útiles), recuerde que si prioriza el efecto causal debe aleatorizar el “tratamiento” o en su defecto, “controlar” y comparar sistemáticamente determinadas variables (categorías de ellas).
+Su prioriza la representatividad es conveniente usar (de algún modo) el azar en la selección de su muestra, especialmente en poblaciones grandes y heterogéneas. Recuerde que una muestra es un subconjunto de alguna población, que puede ser más o menos representativa de esta última, dependiendo de los criterios aplicados.
+Cuanto más claro se tengan los criterios que establezcan los límites de la(s) población(es) y los objetivos de su investigación, el proceso de decisión de estas dimensiones del diseño de investigación será más transparente. Esta es la razón por la cual, se vuelve a tratar aspectos del diseño de la investigación, justo antes de salir a campo o entrar al laboratorio.
+

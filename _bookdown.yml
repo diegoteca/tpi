@@ -1,0 +1,5 @@
+book_filename: "TEG"
+language:
+  ui:
+    chapter_name: "Sección "
+delete_merged_file: true

@@ -1,0 +1,25 @@
+# Antigua Entrega 3
+
+Entrega 3
+Diseño de la investigación I: Operacionalización, Herramientas de recolección de información
+Luego de avanzar en las respuestas a las preguntas de las entregas 1 y 2, ahora nos introducimos en el sinuoso proceso de la operacionalización.
+La racionalidad de este proceso no sólo depende de lo que cada grupo intente hacer observable, sino que, debido a que existe cierta discusión en la bibliografía metodológica, a qué escuela filosófica/metodológica uno siga.
+
+¿Qué información necesita (de cada unidad de análisis) para responder empíricamente a las preguntas planteadas? Aquí es pertinente si cada unidad de análisis será una unidad de observación. Si la respuesta es positiva, la distinción es superflua. Si, en cambio, la respuesta es negativa, ahora habrá que preocuparse por la unidad de observación y (luego en una próxima entrega), cuando se vuelva sobre el problema del diseño de la investigación, será necesario pensar en las consecuencias de la distinción entre unidades de observación y de análisis.
+
+En otras palabras, ¿Qué tipo de datos necesita para que estos se conviertan en evidencia (a favor o en contra) de las hipótesis formuladas?
+
+Nota: Intente pensar, en función de la hipótesis y del marco teórico seleccionado, que propiedades de las unidades de análisis deben ser tenidas en cuenta en su investigación empírica. Piense que esas propiedades son representadas con la ayuda de conceptos (generalmente predicados) y que estos, una vez realizada la salida a campo, se convierten en variables de la investigación empírica.
+
+¿Cómo accederá a esa información? Dependiendo del marco teórico seleccionado, algunos de los conceptos, pueden no ser directamente observables. En esos casos, se dice que requieren una operacionalización, mediante la selección de algunos indicadores. Estos últimos relacionan algo inobservable sobre lo que se quiere predicar con algo observable que se puede acceder empíricamente.
+
+¿Qué herramienta de recolección de información, dados sus objetivos, será más apropiado implementar? Se espera que pueda fundamentar la elección, entendiendo que, dados los objetivos de la investigación, algunas herramientas son más idóneas que otras.
+
+Realice una primera versión del instrumento de recolección.
+
+
+
+
+## Example one
+
+## Example two
