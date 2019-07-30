@@ -12,29 +12,18 @@ github-repo: rstudio/bookdown-demo
 description: "Este documento está construído en R con el paquete Bookdown."
 ---
 
-# Presentación y reglas de juego
+# Prefacio {-}
 
-Algunas veces para captar el significado de algunas frases pomposas es útil distinguir y averiguar el significado individual de cada una de sus palabras componentes. Posiblemente esto sea una buena decisión es este caso.
+Algunas veces para captar el significado de algunas frases pomposas es útil distinguir y averiguar el significado individual de cada una de sus palabras componentes. Posiblemente esto sea el caso para **Trabajo Empírico Grupal (TEG)** que puede entenderse como una unión específica de los significados individuales de sus palabras componentes: **Trabajo**, **Empírico** y **Grupal**.
 
-En este sentido, la hipótesis es que el significado de "Trabajo Empírico Grupal" puede entenderse como una unión de los significados individuales
+- Por **Trabajo** puede entenderse una actividad que involucra un esfuerzo mental o físico realizado para conseguir un propósito o resultado.
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+- Por **Empírico** puede entenderse aquello que se deriva de la "Empiria" y por esta última puede entenderse a aquella parte de los hechos que se puede conocer a través de la observación y de la experimentación.
 
-The **bookdown** package can be installed from CRAN or Github:
+- Por **Grupal** puede entenderse a un número de personas o cosas que están relacionadas de alguna manera.
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+Especificando las definiciones (individuales) generales anteriores para nuestro actual problema se entenderá por **TEG** tanto al **proceso** y al **producto** del trabajo colectivo realizado con compañeros de cursada en donde se relacionen fuertemente operaciones conceptuales y empíricas. 
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+El objetivo básico en cuanto al **proceso** del **TEG** es que el mismo, al implicar muchas y variadas tareas relacionadas, sirva para cumplir la mayoría de los objetivos específicos del [programa de la materia](https://docs.google.com/document/d/1mIYy1htEE8AoBNRs3HFHKRWkXGLKR0Vx4Lc_QMudazY/edit#heading=h.kmv9fpw6p8hb)(§2.1). Especialmente se espera que ayuda a cumplir el objetivo específico n°8 que trata sobre la competencia de socializar entre pares y la producción de conocimiento en forma colaborativa.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+El objetivo básico en cuanto al **producto** del **TEG** es que sea transparente que las operaciones empíricas, o más precisamente, los análisis realizados sobre los datos producidos por ellas, fueron estrategias seleccionadas para aportar evidencia que permita hechar algo de luz a las preguntas de investigación que guiaron la investigación.

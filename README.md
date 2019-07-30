@@ -1,3 +1,10 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+TEG-Bookdown
+Bookdown del Trabajo Empírico Grupal
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
+Mejorar el TP existente en las siguientes dimensiones:
+
+Relacionar con los diferentes objetivos de la asignatura
+Explicitar en el inicio, en base a los supuestos y a los objetivos, la racionalidad del TPIC. Por ejemplo mejorar cuestiones del trabajo colaborativo y, finalmente, reforzar la integralidad
+Diseñar las reglas de juego del TPIC
+Migrar a Bookdown
+© 2019 GitHub, Inc.
