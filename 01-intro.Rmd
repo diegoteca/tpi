@@ -1,19 +1,37 @@
 # Introducción y reglas de juego {#intro}
 >"El legislador hace a los ciudadanos buenos inculcando (buenos) hábitos en ellos y esto es el objetivo de todo legislador. Si no tiene éxito en esto, la legislación es un fracaso. Es en este respecto que una buena constitución difiere de una mala"
 >
-> Aristóteles (Ética a Nicómano, Libro II, Capítulo I, II03B3-7, )
+> Aristóteles (Ética a Nicómaco, 349 AC, Libro II, Capítulo I, II03B3-7)
 
-Lo que sigue a continuación es una justificación pedagógica general del modo de aprendizaje como una justificación específica de las reglas de juego propuestas. 
+Lo que sigue a continuación es una justificación pedagógica general del modo de aprendizaje como una justificación específica de las reglas de juego propuestas para su evaluación. 
 
 ## Justificación Pedagógica
 
 
+
+En el [programa de la materia](https://docs.google.com/document/d/1mIYy1htEE8AoBNRs3HFHKRWkXGLKR0Vx4Lc_QMudazY/edit#heading=h.kmv9fpw6p8hb), especificamente en las secciones 2 y 5, se intenta jerarquizar la idea que esta materia, si bien trata sobre una multitud de conceptos, los objetivos de aquella no se agotan en el aprendizage de ellos y que esto último se encuentra al servicio de poder realizar mejores investigaciones y no, por ejemplo, poder (sólo) realizar mejores clasificaciones de investigaciones realizadas por otros. Se recuerda que el nombre de la materia es "Metodología y Técnicas" y no "Epistemología" de las ciencias sociales.
+
+En este sentido, los conceptos son sólo un medio para representar diferentes aspectos del método científico y se asume que cuanto más se entiendan aquellos mejores decisiones se podrán tomar en futuras investigaciones y, *ceteris paribus*, mejores investigaciones se podrán realizar. De todos modos se puede estar plenamente de acuerdo con lo anterior y todavía quedar abierto cual es la mejor manera de aprender estos conceptos, esto es, a través de que propuesta pedagógica-didáctica los estudiantes logran aprenden 
+
+Pero, como se destaca en los objetivos de la materia, el aprendizaje los conceptos del método científico son sólo una parte sumamente necesaria pero insuficiente para poder realizar investigaciones.
+
+
+
 ## Representación conceptual
+> "Ser capaz de cortar las cosas nuevamente por clases, por donde existen sus articulaciones naturales y no intentando romper en cualquier parte, a la manera de un mal carnicero
+>
+> (Platón, Fedro, 370 a.c., sec. 265d-266a) 
+
+A pesar de alto nivel de abstracción de las líneas que siguen estas quieren hacer visible el siguiente hecho: 
+
+Los buenos conceptos permiten realizar buenas representaciones de la realidad y con una buena representación de la realidad se puede transformar esta.
+
+En determinadas situaciones sin conceptos que logren captar la esencia del devenir de los hechos uno se enfrenta a una maraña de fenómenos que hacen difícil discernir la paja del trigo e imposibilitan el diseño de una plan que logre transformar la realidad. Este es el espíritu del epígrafe de Platón.
 
 
 ### Reglas de Juego
 
-Asumiendo el papel de legislador 
+Acorde con los epígrafes anteriores aquí se propondrá unas reglas de juego que, basados en los conceptos vistos anterioremente 
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
